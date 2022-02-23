@@ -1,8 +1,8 @@
 {
   "background_color": "#ffffff",
   "theme_color": "#333333",
-  "name": "nerdcafe",
-  "short_name": "NerdCafé",
+  "name": "Cerveceria Panzer",
+  "short_name": "Panzer",
   "display": "minimal-ui",
   "start_url": "/",
   "icons": [

@@ -14,8 +14,8 @@
 
 <div>
   <HeroBanner
-    bannerTitle="Welcome"
-    bannerSubtitle="You should come and taste for yourself"
+    bannerTitle="Cerveza Panzer"
+    bannerSubtitle="Tomate la Animal IPA en un suanfonson"
     themeBannerFullHeight
     bannerImg="homepage" />
   <Overview />
