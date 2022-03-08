@@ -7,13 +7,13 @@ Gem::Specification.new do |spec|
   spec.email         = ["mail@qwtel.com"]
 
   spec.summary       = %q{"A boutique Jekyll theme for hackers, nerds, and academics"}
-  spec.homepage      = "https://hydejack.com/"
+  spec.homepage      = "https://panzerbrewerie.github.io/"
   spec.license       = "GPL-3.0"
   spec.metadata = {
     "bug_tracker_uri"   => "https://github.com/hydecorp/hydejack/issues",
-    "changelog_uri"     => "https://hydejack.com/changelog/",
-    "documentation_uri" => "https://hydejack.com/docs/",
-    "homepage_uri"      => "https://hydejack.com/",
+    "changelog_uri"     => "https://panzerbrewerie.github.io/changelog/",
+    "documentation_uri" => "https://panzerbrewerie.github.io/docs/",
+    "homepage_uri"      => "https://panzerbrewerie.github.io/",
     "source_code_uri"   => "https://github.com/hydecorp/hydejack/",
     "github_repo"       => "ssh://github.com/hydecorp/hydejack"
   }
